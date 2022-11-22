@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
