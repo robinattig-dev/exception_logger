@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
