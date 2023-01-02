@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add yolo_bbox2segment docs reference (#7751)
