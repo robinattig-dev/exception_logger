@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Fix device counting method to account for double-digit device IDs (#8502)
