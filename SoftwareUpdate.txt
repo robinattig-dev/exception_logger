@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Add PR Summary step to Ultralytics Actions (#7675)
