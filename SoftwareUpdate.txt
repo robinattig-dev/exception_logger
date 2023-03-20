@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
