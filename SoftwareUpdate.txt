@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
