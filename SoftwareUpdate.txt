@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Use pathlib in DOTA ops (#7552)
