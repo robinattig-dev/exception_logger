@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
