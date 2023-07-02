@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
