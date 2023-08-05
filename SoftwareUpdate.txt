@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Merge pull request #22 from SkalskiP/patch-1
