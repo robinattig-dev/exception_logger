@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+OBB: Fix plot_images (#7592)
