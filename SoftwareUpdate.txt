@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
