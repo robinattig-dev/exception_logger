@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Batch inference fixes (#8854)
