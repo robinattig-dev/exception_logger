@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Expand Model method type hinting (#8279)
