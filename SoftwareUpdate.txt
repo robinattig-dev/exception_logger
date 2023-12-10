@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add C++ Classify inference example (#6868)
