@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add Amazon Sagemaker Docs integrations page (#7293)
