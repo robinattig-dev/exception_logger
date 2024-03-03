@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+OpenVino 2024.0.0 (#8726)
