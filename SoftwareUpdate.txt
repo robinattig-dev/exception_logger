@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+YOLOv8 INT8 TFLite Inference Example (#7317)
