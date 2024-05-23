@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix Yolo 8.0.206 scale bug (#7821)
